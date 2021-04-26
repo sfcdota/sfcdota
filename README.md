@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sfcdota
 - 🌱 I’m currently learning C/C++
 
-<p align="center">
+<p align="left">
   <a href="https://profile.intra.42.fr/users/cbach">
     <img src="https://badge42.herokuapp.com/api/stats/cbach?darkmode=true"/>
   </a>
