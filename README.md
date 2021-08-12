@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sfcdota
-- 🌱 I’m currently learning C/C++
+
 
 
 
